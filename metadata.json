@@ -1,0 +1,6 @@
+{
+  "name": "BrightMind Coaching Institute | JEE, NEET & School Coaching",
+  "description": "Explore BrightMind Coaching Institute's courses, faculty, student support, academic programs and enquiry options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
